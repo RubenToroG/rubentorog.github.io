@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Javascript Fullstack Developer
+Founder of Seguridad SISS, a company specialized in video surveillance
+Amateur chess player
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rubensdt01@gmail.com](mailto:rubensdt01@gmail.com)
