@@ -1,11 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Mi nuevo Blog!!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![Marcus](https://github.com/RubenToroG/rubentorog.github.io/blob/master/images/marcus.jpg "Marcus")
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Hoy por fin me decidí a hacerle caso a todos los que recomiendan iniciar un blog, hoy es, pero no solo es crear el blog, es junto a el, crear un cronograma de publicaciones, acompañado de tiempo en la agenda de forma semanal, para que este impulso no quede en solo eso, un pequeño plus de motivación momentanea que luego se diluya en las ocupaciones diarias y el vivir.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Este blog me acompañará en mi vida de programador, mis retos, mis proyectos, y en compartir los nuevos conocimientos que vaya adquiriendo en el día a día, si alguien algún día pasa por aquí, espero les guste. :tw-1f493:
 
